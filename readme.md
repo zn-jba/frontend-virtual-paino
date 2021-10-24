@@ -1,4 +1,4 @@
-# Virtual Piano Converter
+# Virtual Piano
 ## About
 My solution for the [**Virtual Piano**][project] project in the [**Frontend Developer**][track] track on the learning platform [**JetBrains Academy**][platform].
 
